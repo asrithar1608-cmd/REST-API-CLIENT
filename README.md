@@ -19,3 +19,7 @@ The task also makes use of a public REST API, specifically the Open-Meteo Weathe
 To make the application interactive, the Scanner class from the java.util package was used. This allows the user to enter latitude and longitude values at runtime instead of using hardcoded data. Runtime input improves flexibility and helps demonstrate how real applications work with user-provided data. The JSON response received from the API was parsed manually using basic string operations such as split(). Although professional applications use libraries like Gson or Jackson, manual parsing was intentionally used here to rely only on core Java tools, as required in many internship tasks.
 
 The entire task was developed and executed using Visual Studio Code (VS Code) as the development platform. VS Code was chosen because it is lightweight, fast, and provides excellent support for Java through the Java Extension Pack. This platform offers features such as code suggestions, error detection, debugging, and an integrated terminal for compiling and running Java programs. The task is applicable in academic projects, Java lab exercises, internships such as CODTECH, and beginner-level industry applications. It demonstrates essential concepts like REST API usage, HTTP communication, JSON handling, and structured output, making it highly relevant for students and entry-level developers.
+
+
+
+<img width="721" height="533" alt="Image" src="https://github.com/user-attachments/assets/ef5db4c5-02b8-4707-8410-11cdc4b72c8c" />
